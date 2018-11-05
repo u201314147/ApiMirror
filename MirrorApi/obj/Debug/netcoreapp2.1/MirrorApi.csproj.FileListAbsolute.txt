@@ -1,0 +1,14 @@
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\bin\Debug\netcoreapp2.1\MirrorApi.deps.json
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\bin\Debug\netcoreapp2.1\MirrorApi.runtimeconfig.json
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\bin\Debug\netcoreapp2.1\MirrorApi.runtimeconfig.dev.json
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\bin\Debug\netcoreapp2.1\MirrorApi.dll
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\bin\Debug\netcoreapp2.1\MirrorApi.pdb
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.csprojAssemblyReference.cache
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.csproj.CoreCompileInputs.cache
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.RazorAssemblyInfo.cache
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.RazorAssemblyInfo.cs
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.AssemblyInfoInputs.cache
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.AssemblyInfo.cs
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.RazorTargetAssemblyInfo.cache
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.dll
+C:\Users\JL\source\repos\MirrorApi\MirrorApi\obj\Debug\netcoreapp2.1\MirrorApi.pdb
